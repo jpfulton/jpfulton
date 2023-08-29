@@ -11,3 +11,7 @@
     <a href="https://github.com/jpfulton/jpfulton/network/members"><img src="https://img.shields.io/github/forks/jpfulton/jpfulton.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jpfulton.jpfulton" alt="visitors"/>
 </p>
+
+## GitHub Contribution Statistics
+
+![Contribution Statistics](./profile-3d-contrib/profile-green.svg)
